@@ -1,1 +1,1 @@
-## pacticting git hub
+## pacticting git commands
